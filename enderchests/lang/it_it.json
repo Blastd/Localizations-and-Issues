@@ -1,0 +1,41 @@
+{
+    "_comment": "-------------------------------------- EnderChests en_us.json Localization --------------------------------------!",
+    "_comment": "Keep file encoded with UTF-8 to support chat formatting http://minecraft.gamepedia.com/Formatting_codes",
+    "_comment": "msg entries can span multiple lines, use <br> to indicate a line break.",
+
+    "_comment": "------------------------------------------------------ MISC ------------------------------------------------------!",
+    "itemGroup.enderchests": "EnderChests",
+
+    "_comment": "----------------------------------------------- ERROR/INFO/NOTICE ------------------------------------------------!",
+    "error.enderchests.bag.nolink1.txt": "Impossibile collegare la sacca, non possiedi questo baule.",
+    "error.enderchests.bag.nolink2.txt": "Impossibile collegare la sacca, il proprietario del baule è sconosciuto.",
+    "error.enderchests.bag.nolink3.txt": "Impossibile collegare la sacca, non fai parte dello stesso team.",
+    "error.enderchests.bag.corrupted.txt": "Impossibile aprire la sacca, mancano dei dati NBT (Corrotta).",
+
+    "error.enderchests.chest.public.disabled.txt": "I Bauli pubblici sono disattivati, devono essere aggiornati prima dell'uso.",
+    "error.enderchests.chest.private.disabled.txt": "La creazione di bauli privati è disattivata.",
+    "error.enderchests.chest.team.disabled.txt": "La creazione di bauli del team è disattivata.",
+    "error.enderchests.chest.private.denied.txt": "Solo il proprietario può compiere quest'azione.",
+    "error.enderchests.chest.team.denied.txt": "Solo i membri del team proprietario possono compiere quest'azione.",
+    "error.enderchests.chest.upgrade_used.txt": "Questo aggiornamento può essere applicato una sola volta per baule",
+    "error.enderchests.bag.public.disabled.txt": "Le borse pubbliche sono disattivate.",
+    "error.enderchests.bag.private.disabled.txt": "La creazione di sacche pubbliche è disattivata.",
+    "error.enderchests.bag.team.disabled.txt": "La creazione di sacche del team è disattivata.",
+
+    "info.enderchests.chest.public.txt": "Uso pubblico",
+    "info.enderchests.chest.code.txt": "Codice:",
+    "info.enderchests.chest.capacity.txt": "Capacità baule aumentata di",
+
+    "info.enderchests.craftingmaterial.txt": "Materiale per crafting",
+
+    "_comment": "----------------------------------------------- ITEMS/BLOCKS/FLUIDS ----------------------------------------------!",
+    "item.enderchests.ender_pouch": "Borsa dell'Ender",
+
+    "item.enderchests.bag.public": "Sacca dell'Ender",
+    "item.enderchests.bag.private": "Sacca dell'Ender",
+    "item.enderchests.bag.team": "Sacca dell'Ender",
+
+    "block.enderchests.chest.public": "Baule dell'Ender",
+    "block.enderchests.chest.private": "Baule dell'Ender",
+    "block.enderchests.chest.team": "Baule dell'Ender"
+}
